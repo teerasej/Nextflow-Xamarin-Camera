@@ -1,7 +1,8 @@
 # Nextflow Xamarin Camera
 โปรเจคตัวอย่างการเปิดใช้งานกล้องถ่ายรูปจากแอพพลิเคชั่นที่สร้างด้วย Xamarin.Forms 
 
-ติดตามเนื้อหาใหม่ๆ ได้ที่ [YouTube Channel](http://youtube.com/user/teerasej/?sub_confirmation=1)
+* ถ้าถูกใจ กดให้ดาวด้านบนขวาด้วยนะคร้าบ :)
+* ติดตามเนื้อหาใหม่ๆ ได้ที่ [YouTube Channel](http://youtube.com/user/teerasej/?sub_confirmation=1)
 
 
 # Nextflow Xamarin Camera
